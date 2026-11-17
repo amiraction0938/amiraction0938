@@ -1,84 +1,73 @@
 <div align="center">
 
-<img src="assets/amiraction-banner.svg" alt="AMIRACTION — Building Things Beyond the Ordinary" width="100%">
+<img src="assets/amiraction-banner.svg" alt="AMIRACTION — Curiosity in Code" width="100%">
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-amiraction0938-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amiraction0938)
-[![Focus](https://img.shields.io/badge/FOCUS-Systems%20%26%20Automation-7c3aed?style=for-the-badge)](#)
-[![Mindset](https://img.shields.io/badge/MINDSET-Build%20%26%20Experiment-0891b2?style=for-the-badge)](#)
+[![Mode](https://img.shields.io/badge/MODE-EXPLORE%20%2F%20BUILD-7c3aed?style=for-the-badge)](#)
+[![Mindset](https://img.shields.io/badge/MINDSET-CURIOUS%20BY%20DEFAULT-0891b2?style=for-the-badge)](#)
 
-# Hey, I'm amiraction
+# amiraction.exe
 
-**I build tools, automate workflows, and explore the space between code and creativity.**
+### Curious mind. Builder's hands. Always experimenting.
 
-*Curiosity-driven development. Practical systems. A little bit of chaos.*
+**I like turning ideas into tools, making systems work together, and figuring out how things tick.**
+
+*Part developer's workshop, part endless rabbit hole.*
 
 </div>
 
 ---
 
-## `// ABOUT`
+## `01 / THE HUMAN BEHIND THE KEYBOARD`
 
-I'm an independent developer interested in building useful software, connecting systems, and experimenting with technology.
+I'm an independent developer who enjoys the process as much as the result.
 
-- Building practical tools and side projects
-- Exploring local AI and developer workflows
-- Interested in automation, privacy, and browser security
-- Experimenting with creative technology and 3D
+I explore software, automation, privacy, local AI, and creative tech. Some days that means building something useful; other days it means taking something apart just to understand it.
 
-## `// FEATURED PROJECTS`
+- I learn by experimenting, breaking things, and putting them back together.
+- I enjoy clean solutions, clever ideas, and projects with a purpose.
+- I'm interested in the overlap between technology, creativity, and curiosity.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## `02 / AI IS PART OF THE WORKBENCH`
+
+I use AI as a coding companion and a learning partner — to explore ideas, understand unfamiliar concepts, debug, compare approaches, and build things I couldn't have explored as easily alone.
+
+Not because I want to skip the learning. **The back-and-forth is part of the fun.** Experimenting with AI has a charm of its own, and I genuinely enjoy seeing where that collaboration can lead.
+
+## `03 / THINGS I LIKE TO BUILD`
 
 ### Corsair Unbound
 
-**A local-first browser security and privacy toolkit.**
+**A browser security and privacy toolkit focused on giving users more control.**
 
 - Navigation and redirect protection
 - Suspicious-page heuristics
 - Download and iframe safeguards
 - Privacy controls and Fortress Mode
 
-[**Explore repository →**](https://github.com/amiraction0938/Corsair-Unbound)
+[**Explore Corsair Unbound →**](https://github.com/amiraction0938/Corsair-Unbound)
 
-</td>
-<td width="50%" valign="top">
-
-### AniVault
-
-**A Telegram-based anime archive and delivery system.**
-
-- Archive indexing and search
-- Telegram automation
-- Structured media delivery
-- Server-side tooling
-
-<sub>Private project</sub>
-
-</td>
-</tr>
-</table>
-
-## `// TECH & INTERESTS`
+## `04 / MY TOOLBOX & CURIOSITIES`
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Local%20AI-7c3aed?style=flat-square" alt="Local AI">
+<img src="https://img.shields.io/badge/AI%20%2B%20LLMs-7c3aed?style=flat-square" alt="AI and LLMs">
 <img src="https://img.shields.io/badge/Automation-0891b2?style=flat-square" alt="Automation">
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender">
-<img src="https://img.shields.io/badge/Browser%20Security-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Browser Security">
+<img src="https://img.shields.io/badge/Privacy%20%26%20Security-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Privacy and Security">
+<img src="https://img.shields.io/badge/Creative%20Tech-a855f7?style=flat-square" alt="Creative Technology">
 </p>
 
-## `// THE RULE`
+## `05 / CURRENT PHILOSOPHY`
 
-> Build with curiosity. Ship with intention. Keep learning.
+> Stay curious. Build weird things. Learn something every day.
 
 <div align="center">
 
-**`END OF TRANSMISSION // SEE YOU IN THE NEXT BUILD`**
+**[ CONNECTION OPEN ]**  
+<sub>Thanks for stopping by. There is always something new to explore.</sub>
 
 </div>
